@@ -4,6 +4,13 @@
     <layoutAssignments>
         <layout>audition__c-audition Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>sport__c-sport Layout</layout>
+    </layoutAssignments>
+    <tabVisibilities>
+        <tab>sport__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
